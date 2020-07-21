@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Rafael Cuadrat"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Bioinformatician, 15 years of experience working on genomics, evolution, metagenomics, RNAseq, variant calling, metabarcoding. 
                       Fluent in Python, Ruby, R with some experience with Perl and SQL. Currently working with omics data for molecular epidemiology."
   location         : "Berlin, Germany"
