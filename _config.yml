@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Rafael Cuadrat / Academic Site"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rafael Cuadrat"
+description              : &description "Bioinformatician and Data Scientist"
+url                      : https://rcuadrat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rcuadrat/rcuadrat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Rafael Cuadrat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bioinformatician, 15 years of experience working on genomics, evolution, metagenomics, RNAseq, variant calling (SNPs, CNVs, etc). 
+                      Fluent in Python, Ruby, R with some experience with Perl and SQL. 
+                      Interested in Machine Learning and Big Data as tools for biological data analysis. Currently working with omics data for molecular epidemiology "
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cuadrat+rafael"
+  googlescholar    : "https://scholar.google.com/citations?user=YdvBNigAAAAJ&hl"
+  email            : "Rafael.Cuadrat@dife.de"
+  researchgate     :  "https://www.researchgate.net/profile/Rafael_Cuadrat"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rcuadrat"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rafael-cuadrat-aa6a6230/"
+  orcid            : "http://orcid.org/0000-0001-8289-2599"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rafaelcuadrat"
   vine             :
   weibo            :
   xing             :
