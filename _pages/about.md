@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Short Biography
-======
-I'm a Brazilian scientist, born and raised in Rio de Janeiro, currently living in Berlin. I got a bachelor degree in Biomedicine from Federal University of Rio de Janeiro State (UNIRIO) in 2007, and a Masters in Cellular and Molecular Biology from Oswaldo Cruz Foundation (FIOCRUZ) in 2010. In 2014 I got my doctorate degree in Computational and System Biology from Oswaldo Cruz Foundation (FIOCRUZ). During my doctorate I witnessed the growth of Next Generating Sequencing (NGS), working with 454 sequenced ocean metagenomes and studying the potential of secondary metabolism of aquatic microorganisms. 
-
-
-
+I'm a Brazilian scientist, born and raised in Rio de Janeiro, currently living in Berlin. I got a bachelor degree in Biomedicine from Federal University of Rio de Janeiro State (UNIRIO) in 2007, and a Masters in Cellular and Molecular Biology from Oswaldo Cruz Foundation (FIOCRUZ) in 2010. In 2014 I got my doctorate degree in Computational and System Biology from Oswaldo Cruz Foundation (FIOCRUZ). During my doctorate I witnessed the growth of Next Generating Sequencing (NGS), working with 454 sequenced ocean metagenomes and studying the potential of secondary metabolism of aquatic microorganisms. In 2015 I was granted with an international postdoc fellowship and moved to Berlin, where I worked at the Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), in collaboration with  The Berlin Center for Genomics in Biodiversity Research (BeGenDiv).
 
 Getting started
 ======
