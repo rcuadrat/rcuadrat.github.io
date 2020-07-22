@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Biodiversity and Evolution"
 collection: teaching
-type: "Undergraduate course"
+type: "Masters in Bioinformatcis course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Free University Berlin"
+date: 2019-05-7
+location: "Berin, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Biodiversity and Evolution
+Core module in the Bioinformatics Master program
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
