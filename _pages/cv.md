@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedicine, Federal University from Rio de Janeiro State, 2007
+* M.S. in Cellular and Molecular Biology, Oswaldo Cruz Foundation, 2010   
+* Ph.D in Computational and System Biology, Oswaldo Cruz Foundation, 2014 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2019 -- current position: -	Post-doctoral Scientist 
+  * German Institute of Human Nutrition Potsdam-Rebrucke, Department of Molecular Epidemiology
+  * Project: Gut microbial diversity association with arterial stiffness in EPIC-Potsdam DZD cohort
+  * Supervisor: Prof. Dr. Matthias Schulze
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2017 -- December 2018: -	Bioinformatics Scientist 
+  * Max Planck Institute for Biology of Aging, Bioinformatics Core Facility
+  * Duties included: Developed pipelines for omics analyses, training researchers on bioinformatics and programming (Python), data analysis, interpretation and visualization 
+  * Supervisor: Dr. Jorge Boucas
+  
+* September 2015 -- December 2016: -	Post-doctoral Scientist 
+  * Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB) and Berlin Center for Genomics in Biodiversity Research
+  * Project: Recovering Genomics Clusters of Secondary Metabolites from Lakes Using Genome-Resolved Metagenomics 
+  * Supervisor: Prof. Dr. Hans-Peter Grossart
+  
+* August 2014 -- August 2015: -	Post-doctoral Scientist 
+  * Laboratory of Research in Leishmaniasis, Oswaldo Cruz Institute
+  * Project: Genome sequencing, assembly and annotation of 24 Leishmania strains from the New World
+  * Supervisor: Dr. Elisa Cupolillo
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Molecular Biology
+* Bioinformatics
+  * NGS data analysis
+  * Statistical Analysis
+  * Machine Learning
+  * Comparative Genomics
+  * Pipeline development (Python, R, Bash)
+  * Database development (SQL)
+  
+* Critical Thinking
+* Leadership
+* Agile develpment
 
 Publications
 ======
@@ -54,6 +70,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
