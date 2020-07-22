@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/workshop2
 venue: "Max Plank Institute for Biology of Ageing"
-date: 2018
+date: 2018-11-05
 location: "Cologne, Germany"
 ---
 
