@@ -8,7 +8,7 @@ date: 2019-05-07
 location: "Berin, Germany"
 ---
 
-Biodiversity and Evolution
+Contributing Lecturer for Biodiversity and Evolution
 Core module in the Bioinformatics Master program
 
 
