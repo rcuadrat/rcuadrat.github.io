@@ -1,7 +1,7 @@
 ---
 title: "Advanced Approaches in Molecular Biology"
 collection: teaching
-type: "Workshop"
+type: "Masters"
 permalink: /teaching/masterfio
 venue: "Oswaldo Cruz Institute"
 date: 2014-04-10
