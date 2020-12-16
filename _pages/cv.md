@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* January 2019 -- current position: -	Post-doctoral Scientist 
+* December 2020 -- current position: -	Post-doctoral Scientist 
+  * Max Delbrück Center for Molecular Medicine, The Berlin Institute for Medical Systems Biology (BIMSB)
+  * Bioinformatics and Omics data science group
+  
+
+* January 2019 -- December 2020: -	Post-doctoral Scientist 
   * German Institute of Human Nutrition Potsdam-Rebrucke, Department of Molecular Epidemiology
   * Project: Gut microbial diversity association with arterial stiffness in EPIC-Potsdam DZD cohort
   * Supervisor: Prof. Dr. Matthias Schulze
@@ -25,7 +30,6 @@ Work experience
 * January 2017 -- December 2018: -	Bioinformatics Scientist 
   * Max Planck Institute for Biology of Aging, Bioinformatics Core Facility
   * Duties included: Developed pipelines for omics analyses, training researchers on bioinformatics and programming (Python), data analysis, interpretation and visualization 
-  * Supervisor: Dr. Jorge Boucas
   
 * September 2015 -- December 2016: -	Post-doctoral Scientist 
   * Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB) and Berlin Center for Genomics in Biodiversity Research
@@ -35,7 +39,7 @@ Work experience
 * August 2014 -- August 2015: -	Post-doctoral Scientist 
   * Laboratory of Research in Leishmaniasis, Oswaldo Cruz Institute
   * Project: Genome sequencing, assembly and annotation of 24 Leishmania strains from the New World
-  * Supervisor: Dr. Elisa Cupolillo
+
   
 Skills
 ======
