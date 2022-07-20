@@ -16,6 +16,8 @@ redirect_from:
   
   From 2019 to 2020 I worked at the German Institute of Human Nutrition Potsdam-Rebrucke ([DIfE](http://www.dife.de/)) in the Department of Molecular Epidemiology (MEP), trying to better understand the influence of the gut microbiome on cardiometabolic diseases on EPIC-POTSDAM cohort study. I’m involved in several projects from the department but also external collaborations and side projects, including the study of the antibiotic resistome in oceans ([ResistomeDB](https://resistomedb.com/)) and in the human microbiome (work in progress). I'm also investigating the influence of the nasopharyngeal microbiome in the severity of COVID-19.  
   
-  In December of 2020 I started a new role as a Bioinformatics Scientis in the Bioinformatics and Omics Data Science group from the Berlin Institute for Medical Systems Biology (BIMSB) at Max Delbrück Center (MDC).
+  From December of 2020 to May 2021 I worked as Bioinformatics Scientis in the Bioinformatics and Omics Data Science group from the Berlin Institute for Medical Systems Biology (BIMSB) at Max Delbrück Center (MDC).
+  
+  Currently I'm a System Biology Scientist at Eagle Genomics. 
   
   Since my bachelor thesis, studying parasite protozoa genomes, I always had a passion for the microbiological world and its relation to human health. 
