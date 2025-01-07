@@ -18,6 +18,6 @@ redirect_from:
   
   From December of 2020 to May 2021 I worked as Bioinformatics Scientis in the Bioinformatics and Omics Data Science group from the Berlin Institute for Medical Systems Biology (BIMSB) at Max Delbrück Center (MDC).
   
-  Currently I'm a System Biology Scientist at Eagle Genomics. 
+  From 2021 to 2022 I worked at Eagle Genomics as Senior System Biologists and Scientific lead for several projects on the microbiome space. Currently I'm a Principal Sciencist at mbiomics, where we are creating a new live bacteria therapeutics.  
   
   Since my bachelor thesis, studying parasite protozoa genomes, I always had a passion for the microbiological world and its relation to human health. 
